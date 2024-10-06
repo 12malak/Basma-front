@@ -36,7 +36,7 @@ This project was completed during my tenure at KasselSoft.
 ### Back-End:
 - **Node.js with Express.js**: For handling server-side logic and routing.
 - **MySQL**: For managing and storing relational data.
-- Download the [database.sql](./database/database.sql) file from this repository.
+- Download the [database.sql](https://github.com/12malak/database-basma) file from this repository.
 
 ### Authentication & Security:
 - **JWT (JSON Web Tokens)**: For secure user authentication and authorization.
